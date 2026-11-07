@@ -1,0 +1,8 @@
+{
+  "name": "Contact Card",
+  "description": "Hyper-modern Liquid Glass personal contact hub featuring FluidField WebGL background, ultra-refractive glassmorphism, instant vCard download, direct messaging, and scheduling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
